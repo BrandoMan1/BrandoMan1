@@ -63,13 +63,6 @@
 
 <br/>
 
-<!-- GITHUB STATS (Dynamic) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrandoMan1&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Brandon's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandoMan1&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br/>
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Architecture</h2>
